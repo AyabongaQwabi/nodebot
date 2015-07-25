@@ -1,0 +1,35 @@
+#motionData{
+	width:30em;
+	height:30em;
+	background:black;
+	border:4px solid black;
+	float:right;
+	overflow:hidden;
+	padding:1%;
+	box-shadow:1px 1px 10px 4px grey;
+	font-family: 'sans';
+	font-size:18px;
+	font-weight: 100;
+	color:white;
+	
+	text-align: left;
+}
+
+h1{
+	text-align: center;
+	font-size: 2em;
+	color:black;
+	font-family: 'sans';
+	font-weight: 900;
+	margin:auto;
+}
+#timer{
+	width:100%;
+	
+}
+#options{
+	float:left;
+	border:2px solid black;
+	width:40em;
+	background: grey;
+}
